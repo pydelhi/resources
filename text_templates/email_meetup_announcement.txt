@@ -1,0 +1,22 @@
+## 1.5 week before meetup
+-------------------------
+Subject: Python User Group Meetup, {{date}}
+To: ncr-python@python.org
+
+Hi Everyone,
+The venue for our meetup on <date> has been finalized at <venue>. Thanks <venue_sponsor> and venue managamenet team!
+
+Further details are available on the meetup page[1]. 
+Call for proposals for talks[2] and workshop[3] is open and final selected talks/workshop will be announced after 3 days.
+
+Please RSVP[1] to give us an estimated head count and receive further updates, if any. 
+
+Let's spread the word![2] 
+
+**Footnotes:
+[1] <link_to_meetup>
+[2] https://github.com/pydelhi/talks/issues?q=is%3Aopen+
+[2] https://github.com/pydelhi/workshops/issues?q=is%3Aopen+
+[3] <tweet_link>
+
+----
