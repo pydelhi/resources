@@ -1,0 +1,19 @@
+Tweet samples and templates
+
+Website/Applications
+====================
+
+
+Sponsors
+========
+
+We're happy to announce our <first,next> sponsor/partner: <twitter_username>! Thank you for your support :-) #pydelhi <sponsor_hashtag>
+
+
+Venue
+=====
+
+Venue confirmed! PyDelhi Meetup will take place at <name of venue sponsor>. Can't wait! #pydelhi <sponsor_hashtag>
+
+Swag/General
+============
