@@ -13,7 +13,7 @@ We're happy to announce our <first,next> sponsor/partner: <twitter_username>! Th
 Venue
 =====
 
-Venue confirmed! PyDelhi Meetup will take place at <name of venue sponsor>. Can't wait! #pydelhi <sponsor_hashtag>
+📣 Venue confirmed! PyDelhi Meetup will take place at <venue_name> on <date>. It's RSVP Time!! <meetup_link> #pydelhi
 
 Swag/General
 ============
