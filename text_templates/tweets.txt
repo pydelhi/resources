@@ -4,6 +4,16 @@ Website/Applications
 ====================
 
 
+Talks
+=====
+
+## New video available
+
+🎬 ${talk_title} by ${speaker} is available on youtube now ${video_link} 😊
+
+You can also propose your talks at https://github.com/pydelhi/talks/issues?q=is%3Aopen+
+
+
 Sponsors
 ========
 
