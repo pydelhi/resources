@@ -1,0 +1,44 @@
+## Call for Speakers
+
+PyDelhi is conducting its next meetup on <date>[1]. Call for proposals for talks[2] is open and final selected talks/workshop will be announced soon.
+
+**Footnotes:
+[1] <link_to_meetup>
+[2] https://github.com/pydelhi/talks/issues/new
+
+----
+
+## Call for Volunteers/Organizations
+
+PyDelhi is conducting its next Dev Sprints on <date>[1]. If you are a maintainer or contributor to an Open Source project please reply to this post and participate during the Dev Sprints. PyDelhi invites an interesting pool of participants both old and new which can help take your project further.
+
+Please reply to this mail or reach out to us[2] if interested.
+
+**Footnotes:
+[1] <link_to_meetup>
+[2] https://pydelhi.org
+
+----
+
+## Meetup Announcement
+
+Subject: Announcing PyDelhi Meetup, <date>
+To: ncr-python.in@python.org
+
+Hi Everyone,
+The venue for our meetup on <date> has been finalized at <venue>[1]. Thanks <venue_sponsor> and venue managamenet team!
+
+Schedule
+--------
+<schedule from meetup page>
+
+Please RSVP[2] to give us an estimated head count and receive further updates, if any. 
+
+Let's spread the word![3] 
+
+**Footnotes:
+[1] <link_to_venue_on_google_map>
+[2] <link_to_meetup>
+[3] <tweet_link>
+
+----
