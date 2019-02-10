@@ -1,0 +1,9 @@
+## Call for Speakers
+
+PyDelhi is conducting its next meetup on <date>[1]. Call for proposals for talks[2] is open and final selected talks/workshop will be announced soon.
+
+**Footnotes:
+[1] <link_to_meetup>
+[2] https://github.com/pydelhi/talks/issues/new
+
+----
