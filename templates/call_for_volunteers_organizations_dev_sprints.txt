@@ -1,0 +1,11 @@
+## Call for Volunteers/Organizations
+
+PyDelhi is conducting its next Dev Sprints on <date>[1]. If you are a maintainer or contributor to an Open Source project please reply to this post and participate during the Dev Sprints. PyDelhi invites an interesting pool of participants both old and new which can help take your project further.
+
+Please reply to this mail or reach out to us[2] if interested.
+
+**Footnotes:
+[1] <link_to_meetup>
+[2] https://pydelhi.org
+
+----

@@ -11,7 +11,7 @@ Talks
 
 🎬 "${talk_title}" by ${speaker_handle} is available now @ https://pydelhi.org/talks 😊
 
-Propose your talks @ https://github.com/pydelhi/talks/issues?q=is%3Aopen
+Propose your talks @ https://github.com/pydelhi/talks/issues/new
 
 
 Sponsors
