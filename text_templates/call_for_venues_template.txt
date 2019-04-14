@@ -9,7 +9,7 @@ Hello,
 We at PyDelhi, are a volunteer-driven organization comprising of Pythonistas, enthusiasts, entrepreneurs, researchers, students
 and many more with a primary interest in the programming language, Python. We are a healthy community of 11k members conducting
 bi-weekly meet-ups, Dev-Sprint, seminars, workshops on different topics related but not limited to Python and its applications
-consistently since the past 2 years. We have collaborated with over 20+ communities to share knowledge and experiences, as well
+consistently since the past 3+ years. We have collaborated with over 20+ communities to share knowledge and experiences, as well
 as have planned meetups with about 100+ venue partners in over the past year. 
 Python enthusiasts of all ages, preferences and skill levels are welcome to join our PyDelhi Group to meet more awesome folks like yourself. If you like to know more about us, check out [1][3].
 
