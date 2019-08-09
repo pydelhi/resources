@@ -11,7 +11,7 @@ and many more with a primary interest in the programming language, Python. We ar
 bi-weekly meet-ups, Dev-Sprint, seminars, workshops on different topics related but not limited to Python and its applications
 consistently since the past 3+ years. We have collaborated with over 20+ communities to share knowledge and experiences, as well
 as have planned meetups with about 100+ venue partners in over the past year. 
-Python enthusiasts of all ages, preferences and skill levels are welcome to join our PyDelhi Group to meet more awesome folks like yourself. If you like to know more about us, check out [1][3].
+Python enthusiasts of all ages, preferences, and skill levels are welcome to join our community and network with like-minded people to learn, collaborate and grow. If you like to know more about us, check out [1][3].
 
 We are always looking for new places and organizations to be our venue sponsors contributing to our vision. Organising a meetup
 by us would greatly benefit your venture as listed by us in [2] If you would like to contribute to our cause and help us in
