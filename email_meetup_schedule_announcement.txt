@@ -1,0 +1,31 @@
+## Purpose: to be sent a few days before the meetup
+-------------------------
+Subject: Python User Group Meetup, {{date}}
+To: ncr-python.in@python.org
+
+Hello folks,
+PyDelhi is back to bring you another fun and exciting meetup this 
+weekend.  The venue for our meetup on <date> has been finalized at 
+<venue>[1]. Thanks to <venue_sponsor> for sponsoring the venue and 
+our venue management team!
+
+Schedule for the meetup is as follows: 
+<----- Add schedule with proper formatting and GitHub issue links for talks ---->
+
+Further details are available on our meetup page [2]. Please RSVP [2] to 
+give us an estimated headcount and receive further updates about the 
+meetups. As always looking forward to seeing you at the meetup. Do
+help us spread the word by sharing the meetup and bringing your 
+friends along. [5]
+
+Best, 
+{Name}
+
+**Footnotes:
+[1] <link_to_venue_on_google_map>
+[2] <link_to_meetup>
+[3] https://github.com/pydelhi/talks/issues?q=is%3Aopen+
+[4] https://github.com/pydelhi/workshops/issues?q=is%3Aopen+
+[5] <tweet_link>
+
+----
