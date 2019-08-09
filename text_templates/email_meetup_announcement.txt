@@ -4,10 +4,10 @@ Subject: Python User Group Meetup, {{date}}
 To: ncr-python.in@python.org
 
 Hi Everyone,
-The venue for our meetup on <date> has been finalized at <venue>[1]. Thanks <venue_sponsor> and venue managamenet team!
+The venue for our meetup on <date> has been finalized at <venue>[1]. Thanks to <venue_sponsor> for sponsoring the venue and our venue management team!
 
 Further details are available on the meetup page[2]. 
-Call for proposals for talks[3] and workshop[4] is open and final selected talks/workshop will be announced after 3 days.
+Call for proposals for talks[3] and workshop[4] is open and final selected talks/workshop will be announced soon.
 
 Please RSVP[2] to give us an estimated head count and receive further updates, if any. 
 
