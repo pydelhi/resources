@@ -1,0 +1,20 @@
+Hi <point of contact>,
+
+How are you? I am trying to reach <company name> for sponsorship of the upcoming Python conferences in Delhi/NCR.
+
+We will be doing a Conference on July 29th and 30th 2023, more details at https://conference.pydelhi.org.
+
+We are a bunch of Python lovers who have been volunteering and running regular Python events for past few years you can check more about our activities at https://pydelhi.org.
+
+I would also like to take this opportunity to invite you to our upcoming meetup on <upcoming meetup Date here>, more details about the meetup here http://www.meetup.com/pydelhi/events/<add data here>
+
+<copy stuff over from https://docs.google.com/document/d/177WlxEfmkL1ItQmqxIj85snwlO5WSspPP5HR7oY-cVo/edit if required, otherwise remove>
+
+Our sponsorship prospectus for PyDelhi Conference is available here https://conference.pydelhi.org/data/SponsorshipProspectus2023.pdf
+
+Feel free to reach me anytime for any clarifications
+
+Thanks
+
+<Your Name> | <Your Phone Number>
+
